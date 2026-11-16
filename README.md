@@ -1,7 +1,5 @@
 # Hi, I'm Hafizov Shahboz 👋
 
-**Хафизов Шахбоз Фазлидинович · Khafizov Shakhboz**
-
 **Frontend Developer**  
 **7+ years** building complex B2B web applications with **Angular, React, TypeScript**, and realtime data UIs.  
 Delivered products for **Inter RAO (PJSC, electricity holding)**, **Rosseti (PJSC, national grid)**, and **Siberian Generating Company (SGK)**.

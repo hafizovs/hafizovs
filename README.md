@@ -67,6 +67,7 @@ Delivered products for **Inter RAO (PJSC, electricity holding)**, **Rosseti (PJS
 - **Website:** [hafizovs.github.io](https://hafizovs.github.io/)
 - **Email:** khafizovsf@gmail.com
 - **GitHub:** [hafizovs](https://github.com/hafizovs)
+- **LinkedIn:** [linkedin.com/in/hafizov](https://www.linkedin.com/in/hafizov)
 - **Telegram:** [@khafizovsf](https://t.me/khafizovsf)
 
 > English: B2 · Russian: native
